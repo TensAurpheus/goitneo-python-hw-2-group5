@@ -79,4 +79,5 @@ def main():
             print("Invalid command.")
 
 
-main()
+if __name__ == "__main__":
+    main()
